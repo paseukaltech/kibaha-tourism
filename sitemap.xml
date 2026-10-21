@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-       <loc>https://kibaha-tourism.paseukaltech.workers.dev/</loc>
-       <lastmod>2026-10-21T07:35:02+00:00</lastmod>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://kibaha-tourism.paseukaltech.workers.dev/utalii</loc>
-       <lastmod>2026-10-21T07:35:02+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://kibaha-tourism.paseukaltech.workers.dev/usafiri</loc>
-       <lastmod>2026-10-21T07:35:02+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://kibaha-tourism.paseukaltech.workers.dev/</loc>
+    </url>
+    <url>
+        <loc>https://kibaha-tourism.paseukaltech.workers.dev/utalii.html</loc>
+    </url>
+    <url>
+        <loc>https://kibaha-tourism.paseukaltech.workers.dev/usafiri.html</loc>
+    </url>
 </urlset>
